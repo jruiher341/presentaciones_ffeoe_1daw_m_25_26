@@ -40,7 +40,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/autismo-sur.png" height="22" alt="Fundación Autismo Sur" /> | Fundación Autismo Sur | Frutos Ruiz, Álvaro | *pendiente* |
 | <img src="img/properly.png" height="22" alt="Properly" /> | Properly | García Domínguez, Andrés | *pendiente* |
 | <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Palmero Arrabal, Jesús | *pendiente* |
-| <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Ruiz Herrera, Javier | *pendiente* |
+| <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Ruiz Herrera, Javier | https://github.com/jruiher341/presentaciones_ffeoe_1daw_m_25_26 |
 | <img src="img/ajemare.jpg" height="22" alt="AJEMARE" /> | AJEMARE | Santiago Escobar, Jorge Javier | *pendiente* |
 | <img src="img/windup.svg" height="22" alt="Windup" /> | Windup | Yáñez Solano, Ángel | *pendiente* |
 
