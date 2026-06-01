@@ -30,15 +30,16 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 
 | Logo | Empresa | Participantes | Enlace al repositorio |
 | :--: | :-- | :-- | :-- |
-| <img src="img/accenture.svg" height="18" alt="Accenture" /> | Accenture | Gutiérrez Fernández, Adrián | *pendiente* |
-| <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Baena Urbaneja, Juan Manuel | *pendiente* |
-| <img src="img/diverxia.svg" height="18" alt="Diverxia" /> | Diverxia | Sánchez Muñoz, Adrián | *pendiente* |
+| <img src="img/accenture.svg" height="18" alt="Accenture" /> | Accenture | Gutiérrez Fernández, Adrián | [Accenture](https://github.com/CPIFPAlanTuring/presentaciones_ffeoe_1dam_m_25_26.git) |
+| <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Baena Urbaneja, Juan Manuel | [Altaid](https://github.com/JuanManuelBaena/Presentacion-Dual-Altaid-2026-Juan-Manuel-Baena.git) |
+| <img src="img/diverxia.svg" height="18" alt="Diverxia" /> | Diverxia | Sánchez Muñoz, Adrián | [Repo Adrián Sánchez](https://github.com/asanmun1905/DiverxiaExperience.git) |
 | <img src="img/fixme.png" height="22" alt="FixMe" /> | FixMe | Fernández Rodríguez, Juan Manuel | [FixMe](https://github.com/Ju4nmaFd3z/Presentacion-Dual-Fix-Me-2026-Juanma-Fdez.git) |
 | <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | Ruiz Martín, Samuel<br>Trujillo Rojas, Miguel | [LDQuantum](https://github.com/Poio-o/practica-dual-ldquantum-1dam) |
-| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Gutiérrez Castro, Jazmín | *pendiente* |
+| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Gutiérrez Castro, Jazmín | [NTT Data](https://github.com/Haru-jzmPRG/Presentacion-Dual-NTT-Data-2026-Jazmin-Gutierrez.git) |
 | <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | Álvarez Armijo, Marco | [OposicionesCamino](https://github.com/Maliketh4bc/presentacion-ffeoe-oposiciones-caminos) |
 | <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | García Vela, Eliel Jesús<br>Pagola Del Pino, Víctor | [Rewe](https://github.com/ElielJesusGarciaVela/PresentacionREWE) |
 | <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | Luque Villanueva, Santiago<br>Portillo Guerrero, Curro<br>Rodríguez Espinosa, Sergio | [SweetCode](https://github.com/SergioRE2007/practicas-dam-sweetcode) |
+
 
 *Alumnos sin entrega de repositorio / exposición este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
 
